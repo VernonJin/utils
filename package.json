@@ -1,0 +1,26 @@
+{
+  "name": "v-utils",
+  "version": "1.0.0",
+  "description": "前端工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VernonJin/utils.git"
+  },
+  "keywords": [
+    "utils",
+    "工具"
+  ],
+  "author": "vernon jin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VernonJin/utils/issues"
+  },
+  "homepage": "https://github.com/VernonJin/utils#readme",
+  "devDependencies": {
+    "outils": "^1.5.0"
+  }
+}
